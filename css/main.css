@@ -111,7 +111,7 @@ h6 a {
 
 .breadcrumbs .breadcrumbs-content p {
   color: #fff;
-  font-size: 14px;
+  font-size: 18px;
   margin-top: 25px;
 }
 
@@ -768,7 +768,7 @@ h6 a {
 }
 
 .navbar-brand img {
-  width: 170px;
+  width: 270px;
 }
 
 .mobile-menu-btn {
@@ -848,7 +848,7 @@ h6 a {
 .navbar-nav .nav-item {
   z-index: 1;
   position: relative;
-  margin-left: 40px;
+  margin-left: 24px;
 }
 
 .navbar-nav .nav-item:first-child {
@@ -1675,3 +1675,4 @@ footer .container .noi-dung.about p {
   }
 }
 
+/* css thêm */
